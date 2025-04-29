@@ -29,7 +29,11 @@ Bei einem produktiven Deployment würde an dieser Stelle ein kontinuierlich lauf
    2. Kompetenzentwicklung – Projektskills aus Dropdown wählen, Rahmenbedingungen notieren  
    3. Mitarbeitende bewerte – Anzahl festlegen, Namen eingeben, Skill-Slider bewerten und per Button „Kurs- & Skill-Empfehlung generieren“ Kurse & LLM-Empfehlung abrufen  
    4. Projektanalyse und Ressourcenskalierung – Start/Ende, Budget, Teamgröße angeben und per Button „Projekt bewerten“ eine LLM-gestützte Gesamtanalyse abrufen  
+---
+![alt text](assets/asugabeprojektmitarbeiter.png)
+![projetk](assets/ausgabeprojekt.png)
 
+---
 Alle LLM-Aufrufe (Skill-Gap, Projektanalyse, individuelle Lernpläne) laufen über `llm_utils.py`, das doe open ai (gpt  -4) kapselt. 
 
 Die Kursdaten liegen lokal in `assets/courses.json`.
