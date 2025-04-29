@@ -1,0 +1,90 @@
+Beispiel eingaben zum testen
+
+
+++++
+
+1. Projektdefinition  
+
+Projektname  
+KI-gestützter Support-Chatbot  
+
+Projektbeschreibung  
+Entwicklung eines Chatbots auf Basis von gpt-4, der Kundensupport-Anfragen automatisiert beantwortet und an die bestehenden Prozesse angebunden wird.
+
+++++++++
+
+
+
+2. Kompetenzentwicklung im Projekt  
+Welche Skills sind im Projekt wichtig?  
+- Scrum  
+- Machine Learning  
+- Dokumentation  
+
+Ausgewählte Skills: Scrum, Machine Learning, Dokumentation  
+
+
+
+
+Sonstige Wünsche / Rahmenbedingungen  
+– Rund-um-die-Uhr-Verfügbarkeit  
+– DSGVO-konforme Speicherung  
+– Anbindung an internes Ticket-System
+
+
+
+++++++++++++
+
+3. Mitarbeitende bewerten  
+Anzahl Mitarbeitende  
+1  
+
+Mitarbeiter 1 Name  
+Alice Müller  
+
+Scrum-Kompetenz  
+2  
+
+Machine Learning-Kompetenz  
+1  
+
+Dokumentation-Kompetenz  
+3  
+
+
+
+
+++++++++
+
+4. Projektanalyse und Ressourcenskalierung  
+Start-Datum  
+2025-05-10  
+
+Ende-Datum  
+2025-09-30  
+
+Budget (€)  
+50000  
+
+Team-Größe  
+5  
+
+
+
+++++++++++++
+
+
+Bateil: 
+
+
+Mitarbeiter Bereich 
+
+Welchen Skill möchtest du verbessern?  
+Python
+
+Sonstige Wünsche:
+
+
+Ich möchte ein kleines Data-Science-Projekt umsetzen und dabei vor allem Daten visualisieren. Welche konkreten Schritte empfiehlst du mir, um schnell eigene interaktive Dashboards zu bauen?
+
+Kurse und empfehlung== Button klicken

@@ -1,0 +1,172 @@
+[
+  {
+    "skill": "Python",
+    "courses": [
+      {"title": "Python Basics", "provider": "Udemy", "link": "https://www.udemy.com/course/pythonforbeginners"},
+      {"title": "Programming with Python", "provider": "Coursera", "link": "https://www.coursera.org/learn/python"},
+      {"title": "Python for Data Science", "provider": "edX", "link": "https://www.edx.org/course/python-data-science"},
+      {"title": "Automate with Python", "provider": "Udemy", "link": "https://www.udemy.com/course/automate-python"},
+      {"title": "Learn Python the Hard Way", "provider": "LinkedIn Learning", "link": "https://www.linkedin.com/learning/python-the-hard-way"}
+    ]
+  },
+  {
+    "skill": "Machine Learning",
+    "courses": [
+      {"title": "Machine Learning Basics", "provider": "Coursera", "link": "https://www.coursera.org/learn/machine-learning"},
+      {"title": "Applied Machine Learning", "provider": "edX", "link": "https://www.edx.org/course/applied-machine-learning"},
+      {"title": "Intro to ML", "provider": "Udemy", "link": "https://www.udemy.com/course/machinelearningintro"},
+      {"title": "Practical ML", "provider": "LinkedIn Learning", "link": "https://www.linkedin.com/learning/practical-machine-learning"},
+      {"title": "Deep Learning Specialization", "provider": "Coursera", "link": "https://www.coursera.org/specializations/deep-learning"}
+    ]
+  },
+  {
+    "skill": "Teamarbeit",
+    "courses": [
+      {"title": "Effective Teamwork", "provider": "Udemy", "link": "https://www.udemy.com/course/effective-teamwork"},
+      {"title": "Collaborative Team Skills", "provider": "Coursera", "link": "https://www.coursera.org/learn/collaborative-teams"},
+      {"title": "Team Leadership", "provider": "LinkedIn Learning", "link": "https://www.linkedin.com/learning/team-leadership"},
+      {"title": "Building High-Performance Teams", "provider": "edX", "link": "https://www.edx.org/course/high-performance-teams"},
+      {"title": "Managing Teams Remotely", "provider": "Udemy", "link": "https://www.udemy.com/course/remote-team-management"}
+    ]
+  },
+  {
+    "skill": "Scrum",
+    "courses": [
+      {"title": "Scrum Fundamentals", "provider": "Coursera", "link": "https://www.coursera.org/learn/scrum-fundamentals"},
+      {"title": "Agile and Scrum Masterclass", "provider": "Udemy", "link": "https://www.udemy.com/course/agile-scrum-masterclass"},
+      {"title": "Scrum Master Training", "provider": "LinkedIn Learning", "link": "https://www.linkedin.com/learning/scrum-master-training"},
+      {"title": "Scrum Certification Prep", "provider": "edX", "link": "https://www.edx.org/course/scrum-certification-preparation"},
+      {"title": "Practical Scrum Techniques", "provider": "Udemy", "link": "https://www.udemy.com/course/practical-scrum"}
+    ]
+  },
+  {
+    "skill": "React",
+    "courses": [
+      {"title": "React for Beginners", "provider": "Udemy", "link": "https://www.udemy.com/course/react-the-complete-guide"},
+      {"title": "Modern React Development", "provider": "Coursera", "link": "https://www.coursera.org/learn/react-development"},
+      {"title": "React Essentials", "provider": "LinkedIn Learning", "link": "https://www.linkedin.com/learning/react-essential-training"},
+      {"title": "Front-End Web Development with React", "provider": "Coursera", "link": "https://www.coursera.org/learn/front-end-react"},
+      {"title": "Advanced React", "provider": "Udemy", "link": "https://www.udemy.com/course/advanced-react"}
+    ]
+  },
+  {
+    "skill": "Kommunikation",
+    "courses": [
+      {"title": "Business Communication", "provider": "Coursera", "link": "https://www.coursera.org/learn/business-communication"},
+      {"title": "Effective Communication Skills", "provider": "Udemy", "link": "https://www.udemy.com/course/effective-communication-skills"},
+      {"title": "Communication Fundamentals", "provider": "LinkedIn Learning", "link": "https://www.linkedin.com/learning/communication-fundamentals"},
+      {"title": "Speak With Confidence", "provider": "Udemy", "link": "https://www.udemy.com/course/speak-with-confidence"},
+      {"title": "Workplace Communication", "provider": "edX", "link": "https://www.edx.org/course/workplace-communication-skills"}
+    ]
+  },
+  {
+    "skill": "Dokumentation",
+    "courses": [
+      {"title": "Technical Writing", "provider": "Coursera", "link": "https://www.coursera.org/learn/technical-writing"},
+      {"title": "Documentation for Developers", "provider": "Udemy", "link": "https://www.udemy.com/course/documentation-for-developers"},
+      {"title": "Writing Software Docs", "provider": "LinkedIn Learning", "link": "https://www.linkedin.com/learning/writing-software-documentation"},
+      {"title": "Effective IT Documentation", "provider": "edX", "link": "https://www.edx.org/course/it-documentation"},
+      {"title": "Software Documentation Essentials", "provider": "Udemy", "link": "https://www.udemy.com/course/software-documentation-essentials"}
+    ]
+  },
+  {
+    "skill": "SQL",
+    "courses": [
+      {"title": "SQL for Beginners", "provider": "Udemy", "link": "https://www.udemy.com/course/sql-for-beginners"},
+      {"title": "Databases and SQL", "provider": "Coursera", "link": "https://www.coursera.org/learn/databases-sql"},
+      {"title": "SQL Essentials", "provider": "LinkedIn Learning", "link": "https://www.linkedin.com/learning/sql-essentials"},
+      {"title": "Learn SQL", "provider": "edX", "link": "https://www.edx.org/course/learn-sql"},
+      {"title": "Advanced SQL Queries", "provider": "Udemy", "link": "https://www.udemy.com/course/advanced-sql-queries"}
+    ]
+  },
+  {
+    "skill": "Excel",
+    "courses": [
+      {"title": "Excel Skills for Business", "provider": "Coursera", "link": "https://www.coursera.org/learn/excel-skills-business"},
+      {"title": "Microsoft Excel - Beginner to Advanced", "provider": "Udemy", "link": "https://www.udemy.com/course/microsoft-excel-advanced"},
+      {"title": "Excel Essential Training", "provider": "LinkedIn Learning", "link": "https://www.linkedin.com/learning/excel-essential-training"},
+      {"title": "Data Analysis with Excel", "provider": "edX", "link": "https://www.edx.org/course/data-analysis-in-excel"},
+      {"title": "Excel VBA Programming", "provider": "Udemy", "link": "https://www.udemy.com/course/excel-vba-programming"}
+    ]
+  },
+  {
+    "skill": "Projektmanagement",
+    "courses": [
+      {"title": "Introduction to Project Management", "provider": "Coursera", "link": "https://www.coursera.org/learn/project-management"},
+      {"title": "PMP Certification Training", "provider": "Udemy", "link": "https://www.udemy.com/course/pmp-certification-exam-prep"},
+      {"title": "Project Management Foundations", "provider": "LinkedIn Learning", "link": "https://www.linkedin.com/learning/project-management-foundations"},
+      {"title": "Agile Project Management", "provider": "edX", "link": "https://www.edx.org/course/agile-project-management"},
+      {"title": "Project Planning and Execution", "provider": "Udemy", "link": "https://www.udemy.com/course/project-planning-execution"}
+    ]
+  },
+  {
+    "skill": "Leadership",
+    "courses": [
+      {"title": "Leadership Skills", "provider": "Coursera", "link": "https://www.coursera.org/learn/leadership-skills"},
+      {"title": "Developing Leadership Skills", "provider": "Udemy", "link": "https://www.udemy.com/course/developing-leadership-skills"},
+      {"title": "Leadership Fundamentals", "provider": "LinkedIn Learning", "link": "https://www.linkedin.com/learning/leadership-fundamentals"},
+      {"title": "Effective Leadership", "provider": "edX", "link": "https://www.edx.org/course/effective-leadership"},
+      {"title": "Strategic Leadership", "provider": "Udemy", "link": "https://www.udemy.com/course/strategic-leadership"}
+    ]
+  },
+  {
+    "skill": "Cloud Computing",
+    "courses": [
+      {"title": "Cloud Computing Basics", "provider": "Coursera", "link": "https://www.coursera.org/learn/cloud-computing-basics"},
+      {"title": "AWS Cloud Practitioner", "provider": "Udemy", "link": "https://www.udemy.com/course/aws-certified-cloud-practitioner"},
+      {"title": "Cloud Architecture", "provider": "LinkedIn Learning", "link": "https://www.linkedin.com/learning/cloud-architecture-fundamentals"},
+      {"title": "Introduction to Cloud", "provider": "edX", "link": "https://www.edx.org/course/introduction-to-cloud-computing"},
+      {"title": "Google Cloud Fundamentals", "provider": "Coursera", "link": "https://www.coursera.org/learn/gcp-fundamentals"}
+    ]
+  },
+  {
+    "skill": "Zeitmanagement",
+    "courses": [
+      {"title": "Time Management Fundamentals", "provider": "Coursera", "link": "https://www.coursera.org/learn/time-management"},
+      {"title": "Master Time Management", "provider": "Udemy", "link": "https://www.udemy.com/course/master-time-management"},
+      {"title": "Time Management Tips", "provider": "LinkedIn Learning", "link": "https://www.linkedin.com/learning/time-management-tips"},
+      {"title": "Getting Things Done", "provider": "Udemy", "link": "https://www.udemy.com/course/getting-things-done"},
+      {"title": "Productivity and Time Management", "provider": "edX", "link": "https://www.edx.org/course/productivity-and-time-management"}
+    ]
+  },
+  {
+    "skill": "Konfliktmanagement",
+    "courses": [
+      {"title": "Conflict Resolution Skills", "provider": "Coursera", "link": "https://www.coursera.org/learn/conflict-resolution"},
+      {"title": "Managing Conflict", "provider": "Udemy", "link": "https://www.udemy.com/course/managing-conflict"},
+      {"title": "Conflict Management", "provider": "LinkedIn Learning", "link": "https://www.linkedin.com/learning/conflict-management"},
+      {"title": "Negotiation and Conflict", "provider": "edX", "link": "https://www.edx.org/course/negotiation-and-conflict-management"},
+      {"title": "Effective Conflict Resolution", "provider": "Udemy", "link": "https://www.udemy.com/course/effective-conflict-resolution"}
+    ]
+  },
+  {
+    "skill": "Java",
+    "courses": [
+      {"title": "Java Programming Basics", "provider": "Coursera", "link": "https://www.coursera.org/learn/java-programming"},
+      {"title": "Java for Beginners", "provider": "Udemy", "link": "https://www.udemy.com/course/java-programming-complete-beginner"},
+      {"title": "Core Java Fundamentals", "provider": "LinkedIn Learning", "link": "https://www.linkedin.com/learning/core-java-fundamentals"},
+      {"title": "Introduction to Java", "provider": "edX", "link": "https://www.edx.org/course/introduction-to-java"},
+      {"title": "Advanced Java", "provider": "Udemy", "link": "https://www.udemy.com/course/advanced-java"}
+    ]
+  },
+  {
+    "skill": "Change Management",
+    "courses": [
+      {"title": "Leading Organizational Change", "provider": "Coursera", "link": "https://www.coursera.org/learn/leading-organizational-change"},
+      {"title": "Change Management Masterclass", "provider": "Udemy", "link": "https://www.udemy.com/course/change-management-masterclass"},
+      {"title": "Managing Organizational Change", "provider": "LinkedIn Learning", "link": "https://www.linkedin.com/learning/managing-organizational-change"},
+      {"title": "Change Management Foundations", "provider": "edX", "link": "https://www.edx.org/course/change-management"},
+      {"title": "Change Leadership", "provider": "Udemy", "link": "https://www.udemy.com/course/change-leadership"}
+    ]
+  },
+  {
+    "skill": "Kritisches Denken",
+    "courses": [
+      {"title": "Critical Thinking Skills", "provider": "Coursera", "link": "https://www.coursera.org/learn/critical-thinking-skills"},
+      {"title": "Developing Critical Thinking", "provider": "Udemy", "link": "https://www.udemy.com/course/developing-critical-thinking"},
+      {"title": "Critical Thinking Fundamentals", "provider": "LinkedIn Learning", "link": "https://www.linkedin.com/learning/critical-thinking"},
+      {"title": "Introduction to Critical Thinking", "provider": "edX", "link": "https://www.edx.org/course/introduction-to-critical-thinking"},
+      {"title": "Practical Critical Thinking", "provider": "Udemy", "link": "https://www.udemy.com/course/practical-critical-thinking"}
+    ]
+  }
+]
