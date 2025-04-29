@@ -6,6 +6,7 @@ Version: 0.0.2kan
 Die App bietet auf einer einzigen Seite zwei Bereiche:
 
 einen für Mitarbeitende und einen für Abteilungsleiter. Jede Rolle wählt in der Sidebar ihren Bereich und erhält bdef. Funktionen:
+
 ![Allgemein](assets/gifs/general.gif)
 ---
 
@@ -24,6 +25,10 @@ Bei einem produktiven Deployment würde an dieser Stelle ein kontinuierlich lauf
    - Button „Kurse & Empfehlung“ lädt Kurse aus `courses.json` und zeigt sie an  
    - Spinner signalisiert laufende llm-analyse  
    - roadmap artige Schritt-für-Schritt-Pläne via gpt4
+
+
+ ---  
+
 ![alt text](assets/mitarbeiter1.png)
 ![alt text](assets/mitarbeiter2.png)
 ## Abteilungsleiter-Bereich – Projekt & Skill-Analyse
