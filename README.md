@@ -1,4 +1,7 @@
-# TalentForge 
+# TalentForge
+
+Personalisiertes Learning für Mitarbeiter & Projekt/Skill-Analyse für Abteilungsleiter 
+
 ![alt text](assets/image3.png)
 
 Version: 0.0.2: https://talent.groupshare.de/
