@@ -1,6 +1,7 @@
 # TalentForge 
 ![alt text](assets/image3.png)
-Version: 0.0.2
+
+Version: 0.0.2kan
 
 Die App bietet auf einer einzigen Seite zwei Bereiche:
 
