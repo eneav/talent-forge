@@ -74,7 +74,7 @@ Team-Größe
 ++++++++++++
 
 
-Bateil: 
+abteil: 
 
 
 Mitarbeiter Bereich 
@@ -87,4 +87,7 @@ Sonstige Wünsche:
 
 Ich möchte ein kleines Data-Science-Projekt umsetzen und dabei vor allem Daten visualisieren. Welche konkreten Schritte empfiehlst du mir, um schnell eigene interaktive Dashboards zu bauen?
 
-Kurse und empfehlung== Button klicken
+Gebe mir eine detaillierte Roadmap, wie ich innerhalb von 6 Monaten in diesem Themengebiet ein Talent werde. Jeder Monat soll ein Thema haben
+
+
+dann = generieren 
