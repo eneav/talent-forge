@@ -1,7 +1,7 @@
 # TalentForge 
 ![alt text](assets/image3.png)
 
-Version: 0.0.2kan
+Version: 0.0.2: https://talent.groupshare.de/
 
 Die App bietet auf einer einzigen Seite zwei Bereiche:
 
